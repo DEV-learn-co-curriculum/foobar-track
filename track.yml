@@ -15,7 +15,9 @@ track:
     -   title: phblt
         uuid: ed2eaf1e-777e-47bc-8583-0c05c4692f26
         units: []
-    -   title: thppt
+    -   title: thpp
         uuid: 13c9aa28-9c21-4241-bff1-136fb3879f77
         units:
-            - title: asdf
+        -   title: asdf
+            uuid: cffed112-8256-453d-9d11-327e5bfc0191
+            lessons: []
