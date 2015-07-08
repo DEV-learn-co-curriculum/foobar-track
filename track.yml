@@ -6,6 +6,8 @@ track:
     -   title: bazquxoh
         uuid: 58a3c26a-2030-4109-920f-bb70d072b34b
         units: []
+    -   title: oooo
+        uuid: 806b8efe-0f36-40a2-910e-39991c36dabb
     -   title: gru
         uuid: 1d641714-f48c-4775-9a80-753e0a5904c6
         units: []
@@ -17,7 +19,4 @@ track:
         units:
         -   title: asdf
             uuid: cffed112-8256-453d-9d11-327e5bfc0191
-            lessons:
-            -   title: oooo
-                uuid: 806b8efe-0f36-40a2-910e-39991c36dabb
-                contents: []
+
