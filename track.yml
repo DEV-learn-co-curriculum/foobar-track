@@ -5,10 +5,13 @@ track:
     topics:
     -   title: bazqux
         uuid: 58a3c26a-2030-4109-920f-bb70d072b34b
-        units: 
+        units:
         -   title: sweet
+            uuid: 0fda1fb3-5dda-48a2-938c-29b08855f901
             lessons:
             -   title: heya
+                uuid: ce38821a-e977-4758-8841-0f10fef1cf67
+                contents: []
     -   title: gru
         uuid: 1d641714-f48c-4775-9a80-753e0a5904c6
         units: []
