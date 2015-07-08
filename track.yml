@@ -20,4 +20,5 @@ track:
         units:
         -   title: asdf
             uuid: cffed112-8256-453d-9d11-327e5bfc0191
-            lessons: []
+            lessons:
+            -   title: oooo
