@@ -3,17 +3,8 @@ track:
     title: foobar
     uuid: b02be022-b7b5-4cc8-8833-0cf617618299
     topics:
-    -   title: bazqux
+    -   title: bazquxoh
         uuid: 58a3c26a-2030-4109-920f-bb70d072b34b
-        units:
-        -   title: sweet
-            uuid: 0fda1fb3-5dda-48a2-938c-29b08855f901
-            lessons:
-            -   title: heya
-                uuid: ce38821a-e977-4758-8841-0f10fef1cf67
-                contents: []
-            -   title: phblt
-                uuid: ed2eaf1e-777e-47bc-8583-0c05c4692f26
         units: []
     -   title: gru
         uuid: 1d641714-f48c-4775-9a80-753e0a5904c6
