@@ -2,4 +2,13 @@
 track:
     title: foobar
     uuid: b02be022-b7b5-4cc8-8833-0cf617618299
-    topics: []
+    topics:
+    -   title: bazqux
+        uuid: 58a3c26a-2030-4109-920f-bb70d072b34b
+        units: []
+    -   title: gru
+        uuid: 1d641714-f48c-4775-9a80-753e0a5904c6
+        units: []
+    -   title: xyzzy
+        uuid: 7beff4d4-a83e-4fec-982b-675d0d6c7db5
+        units: []
